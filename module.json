@@ -1,0 +1,19 @@
+{
+    "name": "pos",
+    "alias": "pos",
+    "description": "",
+    "version": "1.0.0",
+    "category": "point-of-sale",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Pos\\Providers\\PosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": [],
+    "settings": []
+}

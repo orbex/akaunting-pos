@@ -1,0 +1,40 @@
+<?php
+
+return [
+
+    'title'   => 'Pos',
+    'point_sale' => 'Point of sale',
+    'add_cart' => 'Add to Cart',
+    'form' => [
+        'name' => 'Name',
+        'email' => 'Email',
+        'phone' => 'Phone',
+        'site' => 'Site',
+        'address' => 'Address',
+        'enter_email' => 'Enter Email',
+        'enter_phone' => 'Enter Phone',
+        'enter_site' => 'Enter Site',
+        'enter_address' => 'Enter Address',
+    ],
+    'payment_gateways' => 'Offline Payment Methods',
+    'currencies' => 'Currencies',
+    'confirm' => 'Confirm',
+    'loading' => 'Loading',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'top_products' => 'Top selling products',
+    'search' => 'Search',
+    'add_customer' => 'Add Customer',
+    'add_products_sale' => 'Add products to your sale',
+    'receiver_account' => 'Receiver account',
+    'checkout' => 'Checkout',
+    'number' => 'Número',
+    'payment_method' => 'Payment method',
+    'total_payable' => 'Total payable',
+    'sale_completed' => 'Sale completed successfully!',
+    'product' => 'Product',
+    'price' => 'Price',
+    'amount' => 'Amount',
+    'subtotal' => 'Subtotal',
+
+];
